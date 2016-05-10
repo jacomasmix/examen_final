@@ -1,0 +1,17 @@
+Detalle Calificacion  12.5/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 6 - 2 = 4 = (3, 3, 0). No tiene nada en el formulario. Las paginas estan bien en el sentido general. Sin embargo le pongo -2 puntos porque no uso la estructura de arreglos de objetos.
+Errores Manejados o no tiene en consola (2 Puntos): 2 Puntos no tiene errores de consola. Excelente.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Punto. Tiene poco codigo pero este codigo esta limpio. 
+Buen Uso de Jquery y Galeria (2.5 Puntos): 1.75 Puntos. La galeria tiene lightbox pero no permite salir de la imagen.
+Uso de los media Queries (2.5 Puntos): 2 Puntos. Tiene media Queries pero no estan bien cerrados. 
+Comentarios (1 Punto): 0 Puntos. No tiene comentarios.
+Pagina con buena estetica (1 Punto): 0.75. Tiene una estetica buena en las imagenes pero el color verde fosforescente no combina con nada en su pagina. Evite usar esos colores. No se acuerda de Paletton?
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 12.5 - 2 = 10.5.  -2 Puntos por no poner nombre en el repo ni en el email. No les puse 0 porque el nombre si esta en el examen en una pagina recondita.
+
+Comentarios Profesor
+La pagina visualmente se ve bien pero no tiene nada de codigo JS.
+No puso nombre, le iba a quitar mas puntos (5) pero note que su nombre esta en la ultima pagina de su sitio web.
+Por que no pone nombre? Lo repeti muchas veces.
+
+
